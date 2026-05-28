@@ -1,1 +1,2 @@
-# agrinho-2026
+# agrinho-2026 
+Este site para o Agrinho 2026 apresenta um projeto focado na união entre inovação tecnológica e sustentabilidade no campo. Ele destaca, de forma clara e visual, os pilares fundamentais de educação, preservação ambiental e práticas agrícolas inteligentes. Através de um design moderno e totalmente responsivo, a página introduz os objetivos da equipe de maneira impactante. Por fim, o portal serve como uma vitrine digital para engajar a comunidade escolar e demonstrar soluções reais para o futuro rural.
